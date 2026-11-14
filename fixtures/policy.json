@@ -1,0 +1,6 @@
+{
+  "genesis_hash": "b34eae18906e317bdfedb1f8199b4b3a80354cfabf2c0aa9c20aa336937879ee",
+  "start_seq": 1,
+  "clock_skew_seconds": 3600,
+  "require_terminal_seal": true
+}

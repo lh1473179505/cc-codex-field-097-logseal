@@ -1,0 +1,35 @@
+[
+  {
+    "version": "v1",
+    "seq": 1,
+    "ts": 1781774500,
+    "actor": "ada",
+    "action": "APPEND",
+    "body_sha256": "2120aca93ba3673593844bd19088f99ae3d6b35df42943d822bb759835011cc3",
+    "prev_hash": "b34eae18906e317bdfedb1f8199b4b3a80354cfabf2c0aa9c20aa336937879ee",
+    "kid": "k-dusk",
+    "seal": "ZVhUCwtykMdq2J6QKxtAL4q1dn5jnUf1gGxfST4SGWA"
+  },
+  {
+    "version": "v1",
+    "seq": 2,
+    "ts": 1781774800,
+    "actor": "ada",
+    "action": "NOTE",
+    "body_sha256": "29173bbba3ce4784028f926fae403ff69ca947c2844fc7881cafd214f061a60d",
+    "prev_hash": "026de727c1e4be40ef3871c4bebff19a4d5e2a6c802c598411195bd785d17aff",
+    "kid": "k-dusk",
+    "seal": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "version": "v1",
+    "seq": 3,
+    "ts": 1781774980,
+    "actor": "sealbot",
+    "action": "TERMINAL",
+    "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prev_hash": "c2cff6bfd58a86fa87aee92692fb184b3f973b2f77d034ad1389fcf3932c9a32",
+    "kid": "k-dusk",
+    "seal": "vBnknbjbNanzRKm2YtssDenKyF-3SwgzKz2L-6cihH4"
+  }
+]

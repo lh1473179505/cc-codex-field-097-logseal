@@ -1,0 +1,35 @@
+[
+  {
+    "version": "v1",
+    "seq": 1,
+    "ts": 1781774500,
+    "actor": "ada",
+    "action": "APPEND",
+    "body_sha256": "f3198713aab9104c61787f6cc50a39b14a134124d021adfc3b30e8c8d963579f",
+    "prev_hash": "b34eae18906e317bdfedb1f8199b4b3a80354cfabf2c0aa9c20aa336937879ee",
+    "kid": "k-dusk",
+    "seal": "zV9Cr-r366BornrAueftZHoXfrKRDwtNl7lwJdZqRnU"
+  },
+  {
+    "version": "v1",
+    "seq": 2,
+    "ts": 1781774700,
+    "actor": "sealbot",
+    "action": "TERMINAL",
+    "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prev_hash": "09c53c4d72106e1607a57033fe2b5705514c6a338530691807fda528dd41fe97",
+    "kid": "k-dusk",
+    "seal": "-nSjKaBFkvRHtju0CgezVUdVtKZqSBFOBRUi4HggHMU"
+  },
+  {
+    "version": "v1",
+    "seq": 3,
+    "ts": 1781774920,
+    "actor": "ada",
+    "action": "APPEND",
+    "body_sha256": "02220cd674f97a26ca9c3cfa2fde6f4bd5b1c502e50fd133f70ded7be2e7c5e8",
+    "prev_hash": "8f7e602dcbafce050573d75391c3dc64530e0bcf3c763f5ef9dd508bef4ea5e3",
+    "kid": "k-dusk",
+    "seal": "KXxtxUTt6bojUqH_m3CzcnuBfn6B4HuTMM94fbNU-qM"
+  }
+]

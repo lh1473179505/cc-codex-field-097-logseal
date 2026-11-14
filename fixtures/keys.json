@@ -1,0 +1,22 @@
+{
+  "keys": {
+    "k-dawn": {
+      "secret": "a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1",
+      "status": "active",
+      "not_before": 1781771400,
+      "not_after": 1781773500
+    },
+    "k-dusk": {
+      "secret": "b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2",
+      "status": "active",
+      "not_before": 1781773600,
+      "not_after": 1781785000
+    },
+    "k-revoked": {
+      "secret": "c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3",
+      "status": "revoked",
+      "not_before": 1781771400,
+      "not_after": 1781785000
+    }
+  }
+}

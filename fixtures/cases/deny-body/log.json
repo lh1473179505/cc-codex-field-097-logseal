@@ -1,0 +1,24 @@
+[
+  {
+    "version": "v1",
+    "seq": 1,
+    "ts": 1781774600,
+    "actor": "ada",
+    "action": "APPEND",
+    "body_sha256": "002234dbe7a574db7b8b576f9588aef6628d0730b1a268aad539382a5c77608d",
+    "prev_hash": "b34eae18906e317bdfedb1f8199b4b3a80354cfabf2c0aa9c20aa336937879ee",
+    "kid": "k-dusk",
+    "seal": "CDSBjfI2RDYp182lIOZrercJgMH6eRLZiAs0hOeGXko"
+  },
+  {
+    "version": "v1",
+    "seq": 2,
+    "ts": 1781774950,
+    "actor": "sealbot",
+    "action": "TERMINAL",
+    "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prev_hash": "0324dfd225ea910d3a421dd57c72deaebfc3824a3dfe396127034b3cb1f694ae",
+    "kid": "k-dusk",
+    "seal": "UkqFsg65KHxq_bvzLj_i9ZE2i5nuoDHzNYWZHQtI_Ic"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "version": "v1",
+    "seq": 1,
+    "ts": 1781774800,
+    "actor": "ada",
+    "action": "APPEND",
+    "body_sha256": "20bf42d88dbccea0a38042ee48c265c175dcecf92d67fcc11a2971fc15f884a4",
+    "prev_hash": "b34eae18906e317bdfedb1f8199b4b3a80354cfabf2c0aa9c20aa336937879ee",
+    "kid": "k-revoked",
+    "seal": "lh5_YZxz5-psYdzs1dqVpWDy6fIdB5bA5gf3jMnFNJQ"
+  },
+  {
+    "version": "v1",
+    "seq": 2,
+    "ts": 1781774960,
+    "actor": "sealbot",
+    "action": "TERMINAL",
+    "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prev_hash": "8f71f0d017c4c12b48278a968cef172fc7a739dbdffc9efd98d18518aa60323d",
+    "kid": "k-revoked",
+    "seal": "s37YpqQSkcJt3NH4X5A2VjNt6c097wKjRjzO1HzBpCA"
+  }
+]
